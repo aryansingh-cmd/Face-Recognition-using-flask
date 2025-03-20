@@ -1,2 +1,1 @@
-# Face-Recognition-using-flask
-Attendance System using flask 
+# face_recognition_flask
